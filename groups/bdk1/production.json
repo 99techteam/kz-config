@@ -1,0 +1,26 @@
+{
+  "underMaintenance": false,
+  "endTime": "YYYY-MM-DDTHH:mm:ssZ",
+  "messages": {
+    "en": {
+      "title": "",
+      "description": ""
+    },
+    "th": {
+      "title": "",
+      "description": ""
+    },
+    "id": {
+      "title": "",
+      "description": ""
+    },
+    "ur": {
+      "title": "",
+      "description": ""
+    },
+    "bn": {
+      "title": "",
+      "description": ""
+    }
+  }
+}
