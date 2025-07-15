@@ -1,6 +1,7 @@
 {
   "underMaintenance": false,
   "endTime": "YYYY-MM-DDTHH:mm:ssZ",
+  "desktopBlocker": false,
   "messages": {
     "en": {
       "title": "",
