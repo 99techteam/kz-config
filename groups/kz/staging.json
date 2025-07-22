@@ -22,5 +22,15 @@
       "title": "",
       "description": ""
     }
+  },
+  "domainSecurity": {
+    "enabled": true,
+    "badges": [
+      {
+        "domain": "tth1.trykz.dev",
+        "redirectUrl": "https://media.istockphoto.com/id/2152376198/vector/blue-shield-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=u1xcOnUUDsuE0qFqrC3i2JryheSH4ItmrAxC3frh8BU=",
+        "imageUrl": "https://media.istockphoto.com/id/2152376198/vector/blue-shield-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=u1xcOnUUDsuE0qFqrC3i2JryheSH4ItmrAxC3frh8BU="
+      }
+    ]
   }
 }
