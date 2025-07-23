@@ -23,5 +23,20 @@
       "title": "",
       "description": ""
     }
+  },
+  "domainSecurity": {
+    "enabled": true,
+    "badges": [
+      {
+        "domain": "mainbigv1.com",
+        "redirectUrl": "https://imagedelivery.net/Te6DdQqXh49nz9pcywVnmw/1125cac8-e647-4f17-29f5-24b2282e3800/public",
+        "imageUrl": "https://imagedelivery.net/Te6DdQqXh49nz9pcywVnmw/1125cac8-e647-4f17-29f5-24b2282e3800/public"
+      },
+      {
+        "domain": "mainbigv2.com",
+        "redirectUrl": "https://imagedelivery.net/Te6DdQqXh49nz9pcywVnmw/e42faa99-0f98-4975-e547-0a333b400f00/public",
+        "imageUrl": "https://imagedelivery.net/Te6DdQqXh49nz9pcywVnmw/e42faa99-0f98-4975-e547-0a333b400f00/public"
+      }
+    ]
   }
 }
