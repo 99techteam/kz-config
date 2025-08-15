@@ -1,6 +1,7 @@
 {
   "underMaintenance": false,
   "desktopBlocker": false,
+  "notificationDrawerEnabled": true,
   "endTime": "YYYY-MM-DDTHH:mm:ssZ",
   "messages": {
     "en": {
