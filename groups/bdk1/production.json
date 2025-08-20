@@ -10,5 +10,5 @@
     }
   },
   "desktopBlocker": false,
-  "notificationDrawerEnabled": true
+  "notificationDrawerEnabled": false
 }

@@ -10,7 +10,7 @@
     }
   },
   "desktopBlocker": false,
-  "notificationDrawerEnabled": true,
+  "notificationDrawerEnabled": false,
   "domainSecurity": {
     "enabled": true,
     "badges": [
