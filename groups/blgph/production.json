@@ -1,0 +1,14 @@
+{
+  "underMaintenance": false,
+  "maintenance": {
+    "endTime": "",
+    "messages": {
+      "en": {
+        "title": "",
+        "description": ""
+      }
+    }
+  },
+  "desktopBlocker": false,
+  "notificationDrawerEnabled": false
+}
