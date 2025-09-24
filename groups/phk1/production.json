@@ -10,6 +10,6 @@
     }
   },
   "desktopBlocker": false,
-  "desktopBlockerV2": true,
+  "desktopBlockerV2": false,
   "notificationDrawerEnabled": false
 }
