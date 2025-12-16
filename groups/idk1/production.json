@@ -11,7 +11,7 @@
   },
   "desktopBlocker": false,
   "desktopBlockerV2": false,
-  "notificationDrawerEnabled": false,
+  "notificationDrawerEnabled": true,
   "domainSecurity": {
     "enabled": true,
     "badges": [

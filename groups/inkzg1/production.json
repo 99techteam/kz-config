@@ -11,5 +11,5 @@
   },
   "desktopBlocker": false,
   "desktopBlockerV2": false,
-  "notificationDrawerEnabled": false
+  "notificationDrawerEnabled": true
 }
